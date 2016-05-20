@@ -27,6 +27,26 @@
 	font-size: 45px;
 }
 
+.about {
+	font-family: Tiffany; 
+	background-color: #000000;
+	color: #FFFFFF;
+	padding-top: 25px;
+	padding-left: 30px;
+	padding-bottom: 25px;
+	padding-right: 30px;
+}
+
+
+.heading {
+	margin-left: 300px;
+}
+
+.parttwo {
+	margin-left: 150px;
+}
+
+
 body {
 	background-color: #FFFDD0;
 }
@@ -35,4 +55,6 @@ body {
 	font-family: Tiffany;
 	src: url(stepha5.ttf);
 }
+
+
 
